@@ -7,10 +7,6 @@
 - **Unauthenticated users** can view book details and existing reviews.
 - **Authenticated users** can register, log in, and submit reviews.
 
-This project is part of the **[DevOps Zero to Hero: Docker, K8s, Cloud, CI/CD & 4 Projects](https://www.udemy.com/user/pravin-mishra-30/)** Udemy course and designed to help students practice DevOps tools and cloud infrastructure end-to-end.
-
----
-
 ## Architecture
 
 - **Frontend**: Built using **Next.js**, providing server-side rendering and dynamic routing.
